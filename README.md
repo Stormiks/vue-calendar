@@ -1,4 +1,4 @@
-# calendar.loc
+# Vue-Calendar
 
 ## Project setup
 ```
