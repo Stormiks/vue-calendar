@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vue-calendar/precache-manifest.314aa058c40ff9927dc84cac9e32b53d.js"
+  "/vue-calendar/precache-manifest.22b42d9aaeea36e4b33b9613e38754f2.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "calendar.loc"});
